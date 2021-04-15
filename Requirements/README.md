@@ -18,7 +18,7 @@ It easy to fetch and update data whenever needed which will reduce the human wor
     * Add a student
     * Search for student
     * Modify Student Record
-    * Generate Marksheet
+    * Update Student Record
     * Delete Student Record
 ### Non-Functional Requirement of student management system
 * User-Friendly as the system is very interactive and can be easily operated.
@@ -38,4 +38,21 @@ This problem is faced in educational institutions in small towns and villages
 Advancement in technology has reduced effort to a large extent
 ### How:
 This problem is known because of data loss and searching for a record become a tedious job for staff and others.
+ Detail requirements
+## High Level Requirements: 
+| ID | Description | Category | Status | 
+| ----- | ----- | ------- | ---------|
+| HR01 | User shall be able to add new student record | Techincal | IMPLEMENTED | 
+| HR02 | User shall be able to view the student record| Techincal |  IMPLEMENTED  |
+| HR03 | User shall be able to search a student record | Techincal |  IMPLEMENTED  |
+| HR04 | User shall be able to delete a student record | Techincal |  IMPLEMENTED  |
+| HR05 | User shall be able to updatea student records | Techincal |  IMPLEMENTED  |
 
+##  Low level Requirements:
+| ID | Description | Category | Status | 
+| ----- | ----- | ------- | ---------|
+| LR01 | New Records shall be added by providing all the asked information and the reg.number should be unique or else student record should not be accepted | Techincal | IMPLEMENTED | 
+| LR02 |Reading student data should be possible in 2 ways either by  searching the id of a patient or by printing all the records available| Techincal |  IMPLEMENTED  |
+| LR03 | If user searches for an invalid ID "No Record Found" message should be displayed| Techincal |  IMPLEMENTED  |
+| LR04 | User needs to search by name for the student to modify the record. If no record is found then display the message "no record found" | Techincal |  IMPLEMENTED  |
+| LR05 | User needs to search by name for the student to delete the record. If no record is found then display the message "no record found"  | Techincal |  IMPLEMENTED  |
