@@ -1,13 +1,3 @@
-**
- * @file main.c
- * @author Kavya 295578
- * @brief Main program of the project
- * @version 0.1
- * @date 2021-04-15
- * 
- * @copyright Copyright (c) 2021
- * 
- */
 #include "student.h"
 
 
