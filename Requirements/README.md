@@ -46,7 +46,7 @@ This problem is known because of data loss and searching for a record become a t
 | HR02 | User shall be able to view the student record| Techincal |  IMPLEMENTED  |
 | HR03 | User shall be able to search a student record | Techincal |  IMPLEMENTED  |
 | HR04 | User shall be able to delete a student record | Techincal |  IMPLEMENTED  |
-| HR05 | User shall be able to updatea student records | Techincal |  IMPLEMENTED  |
+| HR05 | User shall be able to update student records | Techincal |  IMPLEMENTED  |
 
 ##  Low level Requirements:
 | ID | Description | Category | Status | 
