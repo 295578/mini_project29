@@ -5,7 +5,8 @@
 #include<stdlib.h>
 #include<string.h>
 
-typedef enum{SUCCESS=1,FAILURE}error_t;
+typedef enum{
+    SUCCESS=1,FAILURE}error_t;
 
 FILE *fl,*tmp;
     struct data{
