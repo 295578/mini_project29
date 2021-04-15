@@ -1,7 +1,7 @@
 #include "studentrecord.h"
 void main()
 {
-    error_t err;
+    error_t errro;
     int i,j,choice;
     printf("Student Record System\n\n");
     printf("Menu\n\n");
@@ -14,7 +14,7 @@ void main()
         scanf("%d",&choice);
         switch(choice){
             case 1:
-                err = Add();
+                errro = Add();
                 break;
             case 2:
                 Search();
