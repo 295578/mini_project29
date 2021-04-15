@@ -27,3 +27,15 @@ It easy to fetch and update data whenever needed which will reduce the human wor
 * All operations are in english so user must have basic knowledge of English.
 ## SWOT Analysis
 ![Description](https://github.com/295578/mini_project29/blob/main/Images/swot.JPG)
+## 4W's and 1'H
+### Who:
+Educational Institutions
+### What:
+It becomes a tedious task to manage every student data with hand written file system when there are more number of students
+### Where:
+This problem is faced in educational institutions in small towns and villages
+### When:
+Advancement in technology has reduced effort to a large extent
+### How:
+This problem is known because of data loss and searching for a record become a tedious job for staff and others.
+
