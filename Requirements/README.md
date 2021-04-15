@@ -26,4 +26,4 @@ It easy to fetch and update data whenever needed which will reduce the human wor
 * Every user must be comfortable using computer
 * All operations are in english so user must have basic knowledge of English.
 ## SWOT Analysis
-!
+![Description](https://github.com/295578/mini_project29/blob/main/Images/swot.JPG)
