@@ -25,3 +25,5 @@ It easy to fetch and update data whenever needed which will reduce the human wor
 ### Constraints
 * Every user must be comfortable using computer
 * All operations are in english so user must have basic knowledge of English.
+## SWOT Analysis
+
