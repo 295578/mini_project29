@@ -1,11 +1,9 @@
 #include "studentrecord.h"
-
-
 void main()
 {
     error_t err;
     int i,j,choice;
-    printf("Student Managemnt System\n\n");
+    printf("Student Record System\n\n");
     printf("Menu\n\n");
     printf("1. Add new Student\n");
     printf("2. Search Student\n");
