@@ -1,4 +1,4 @@
-#include "student.h"
+#include "studentrecord.h"
 
 
 void main()
